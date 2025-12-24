@@ -1,1 +1,2 @@
-Repository for OOP class in Erasmus+ 
+# Repository for OOP class in Erasmus+ 
+### Teacher: Donatas Dervinis
